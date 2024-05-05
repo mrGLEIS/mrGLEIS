@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Gleis 
-- 👀 In the field of programming I'm interested in Mobile App, Web development, and Machine Learning
+- 👀 In the field of programming I'm interested in Mobile App & Web development, AI Applications & Machine Learning
